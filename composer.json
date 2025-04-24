@@ -1,5 +1,5 @@
 {
-    "name": "coinremitter/magento2",
+    "name": "icoolant/coinremitter-magento2",
     "description": "Official coinremitter checkout plugin for magento2",
     "type": "magento2-module",
     "license": [
