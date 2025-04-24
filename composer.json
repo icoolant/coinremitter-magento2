@@ -11,6 +11,10 @@
         {
             "email": "support@coinremitter.com",
             "name": "Coinremitter"
+        },
+        {
+            "email": "gm_max@mail.ru",
+            "name": "Maxim IV"
         }
     ],
     "minimum-stability": "stable",

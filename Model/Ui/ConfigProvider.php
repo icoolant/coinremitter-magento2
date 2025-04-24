@@ -8,7 +8,7 @@ namespace Coinremitter\Checkout\Model\Ui;
 use \Magento\Framework\App\Config\ScopeConfigInterface;
 use Magento\Checkout\Model\ConfigProviderInterface;
 use Magento\Framework\HTTP\ZendClientFactory;
-use Zend\Http\Request;
+use Laminas\Http\Request;
 
 
 /**

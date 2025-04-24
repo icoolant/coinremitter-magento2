@@ -9,7 +9,7 @@ use Magento\Framework\Exception\LocalizedException;
 use Coinremitter\Checkout\Model\Wallets\Api;
 use Magento\Framework\HTTP\ZendClientFactory;
 use Magento\Framework\Encryption\EncryptorInterface;
-use Zend\Http\Request;
+use Laminas\Http\Request;
 
 class Save extends \Magento\Backend\App\Action
 {

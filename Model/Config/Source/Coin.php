@@ -7,7 +7,7 @@ namespace Coinremitter\Checkout\Model\Config\Source;
 
 use Coinremitter\Checkout\Model\Wallets\Api;
 use Magento\Framework\HTTP\ZendClientFactory;
-use Zend\Http\Request;
+use Laminas\Http\Request;
 
 class Coin implements \Magento\Framework\Option\ArrayInterface
 {

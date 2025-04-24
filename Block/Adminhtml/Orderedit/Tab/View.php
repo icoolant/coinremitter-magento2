@@ -2,7 +2,7 @@
 
 namespace Coinremitter\Checkout\Block\Adminhtml\Orderedit\Tab;
 
-use Zend\Http\Request;
+use Laminas\Http\Request;
 
 class View extends \Magento\Backend\Block\Template implements \Magento\Backend\Block\Widget\Tab\TabInterface
 {

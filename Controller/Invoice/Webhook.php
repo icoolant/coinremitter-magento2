@@ -2,7 +2,7 @@
 
 namespace Coinremitter\Checkout\Controller\Invoice;
 
-use Zend\Http\Request;
+use Laminas\Http\Request;
 
 
 class Webhook extends \Magento\Framework\App\Action\Action

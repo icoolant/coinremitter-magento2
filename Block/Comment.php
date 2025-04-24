@@ -2,7 +2,7 @@
 
 namespace Coinremitter\Checkout\Block;
 
-use Zend\Http\Request;
+use Laminas\Http\Request;
 
 class Comment extends \Magento\Framework\View\Element\Template
 {

@@ -7,7 +7,7 @@ use Magento\Framework\App\Action\Context;
 use Magento\Framework\Controller\Result\JsonFactory;
 use Magento\Framework\View\Result\PageFactory;
 use Coinremitter\Checkout\Model\Wallets\Api;
-use Zend\Http\Request;
+use Laminas\Http\Request;
 
 class PaymentHistory extends Action
 {

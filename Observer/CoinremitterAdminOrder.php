@@ -5,7 +5,7 @@ namespace Coinremitter\Checkout\Observer;
 use Magento\Framework\Event\ObserverInterface;
 use Coinremitter\Checkout\Model\Wallets\Api;
 use Magento\Framework\HTTP\ZendClientFactory;
-use Zend\Http\Request;
+use Laminas\Http\Request;
 
 class CoinremitterAdminOrder implements ObserverInterface
 {
